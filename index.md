@@ -1,7 +1,4 @@
-欢迎来到俺的博客。
+# 欢迎来到俺的博客。
 
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+~瞎配置的博客~
+[b站]:(https://www.bilibili.com/)

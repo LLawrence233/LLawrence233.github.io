@@ -4,7 +4,7 @@
 
 [b站主页](https://space.bilibili.com/34523493)
 >这是网课的课表
-<div>
+<html>
 <table  border =2 >
 	<tr  align="center">
 		<td></td>
@@ -47,4 +47,4 @@
 		<td>&nbsp;</td>
 	</tr>
 </table>
-<div>
+</html>

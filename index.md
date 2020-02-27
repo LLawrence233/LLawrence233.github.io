@@ -3,10 +3,10 @@
 ~~瞎配置的博客~~ <br/>
 
 [b站主页](https://space.bilibili.com/34523493)
+
 >这是网课的课表
-<html>
 <table  border =2 >
-	<tr  align="center">
+<tr  align="center">
 		<td></td>
 		<th>星期一</th>
 		<th>星期二</th>
@@ -46,5 +46,9 @@
 		<td>网站设计实训<br>朱木清</td>
 		<td>&nbsp;</td>
 	</tr>
-</table>
-</html>
+	</table>
+
+<br>
+
+## 为什么我整不了table
+

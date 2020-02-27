@@ -2,10 +2,11 @@
 
 ~~瞎配置的博客~~ <br/>
 
-![猫猫头]([https://github.com/LLawrence233/LLawrence233.github.io/blob/master/images/%E7%8C%AB%E7%8C%AB%E5%A4%B4.jpg](https://github.com/LLawrence233/LLawrence233.github.io/blob/master/images/猫猫头.jpg)<br>
+![猫猫头](https://github.com/LLawrence233/LLawrence233.github.io/blob/master/images/猫猫头.jpg)<br>
 
 [b站主页](https://space.bilibili.com/34523493)
 
+<hr>
 >这是网课的课表
 <table  border =2 >
 <tr  align="center">

@@ -11,7 +11,7 @@ description: 这是一个刚开始接触github pages的萌新，不知道咋整�
 github_username: LLawrence233
 
 # Email and twitter are optional:
-email:914033278@qq.com
+email:
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
@@ -21,7 +21,6 @@ use_math:
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-
 theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
